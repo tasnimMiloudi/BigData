@@ -10,3 +10,5 @@ Each TP is stored in its own folder:
 | Folder | Description |
 |--------|-------------|
 | 'TP1/' | Notebook: 'TP1 (2).ipynb' data: tp1_data |
+| 'TP2/' | Notebook: 'Tp2_code.ipynb' raport: تقرير_TP2_BigData.pdf |
+| 'TP3/' | Notebook: 'TP3_power_BI.pbix' raport: تقرير_TP3.pdf  |
